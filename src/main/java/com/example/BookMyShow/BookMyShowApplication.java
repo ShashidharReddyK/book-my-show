@@ -1,7 +1,5 @@
 package com.example.BookMyShow;
 
-import com.example.BookMyShow.models.City;
-import com.example.BookMyShow.models.Theatre;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -9,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BookMyShowApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BmsAug23Application.class, args);
+		SpringApplication.run(BookMyShowApplication.class, args);
 	}
 
 }
